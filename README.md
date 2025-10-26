@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -27,3 +28,7 @@ Landing-page/
 
 
 
+=======
+Nairobi Startup Club Landing page
+  
+>>>>>>> 7b217665f0238e5e590d1cd611991af4b38c4c35

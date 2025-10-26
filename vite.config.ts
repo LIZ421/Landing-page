@@ -79,7 +79,10 @@
       outDir: 'build',
     },
     server: {
+<<<<<<< HEAD
       host: true,
+=======
+>>>>>>> 7b217665f0238e5e590d1cd611991af4b38c4c35
       port: 3000,
       open: true,
     },
